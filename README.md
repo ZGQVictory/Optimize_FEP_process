@@ -14,4 +14,5 @@ For a trivial process of the common FEP step, we'd like to follow the steps as f
   5. solvate
   6. ionized
   7. set the A & B state
-  8. 
+  8. alchemify
+  9. execute in the NAMD
